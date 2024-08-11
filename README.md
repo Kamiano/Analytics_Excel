@@ -3,7 +3,11 @@
 
 ## Overview:
 This dashboard provides insights into various HR metrics to support strategic decision-making in an company. 
-
+## Process 
+Explore the data.
+Clean the data.
+Come up and calculate the KPI's.
+Create an interactive dashboard.
 ## Data:
 The dashboard utilizes employee data to calculate key performance indicators.
 
