@@ -2,7 +2,7 @@
 # HR Analytics Dashboard
 
 ## Overview:
-This dashboard provides insights into various HR metrics to support strategic decision-making in an company. 
+This dashboard provides insights into various HR metrics to support strategic decision-making focusing mainly on the attrition in the company. 
 ## Process 
 Explore the data.
 Clean the data.
