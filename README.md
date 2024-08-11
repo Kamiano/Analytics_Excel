@@ -32,3 +32,6 @@ Performance management
 Employee engagement
 Compensation analysis
 Workforce planning
+## Snippet
+![image](https://github.com/user-attachments/assets/6233d08b-5aad-47f4-b54e-fd19d41cb250)
+
